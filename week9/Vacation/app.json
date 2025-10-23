@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Vacation",
+    "slug": "Vacation",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/vaca.jpg",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/vaca.jpg",
+      "resizeMode": "cover",
+      "backgroundColor": "#000000"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/vaca.jpg",
+        "backgroundColor": "#000000"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/images/vaca.jpg"
+    }
+  }
+}
